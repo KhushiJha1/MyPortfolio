@@ -1,11 +1,11 @@
-/* Reset some default styles */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Set background and text color */
+
 body {
     background-color: #f0f0f0;  /* Light grey background for the entire page */
     font-family: Arial, sans-serif;
@@ -13,7 +13,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header Styling */
+
 header {
     background-color: #333;  /* Dark background */
     color: #fff;  /* White text */
@@ -42,7 +42,7 @@ nav ul li a {
     font-size: 1.2em;
 }
 
-/* Section Styling */
+
 section {
     background-color: #d3d3d3;  /* Grey background for the sections */
     max-width: 900px;  /* Max width to center and keep content compact */
@@ -52,18 +52,18 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Subtle shadow */
 }
 
-/* Section Heading */
+
 section h2 {
     font-size: 1.8em;
     margin-bottom: 10px;
 }
 
-/* Contact Section Styling */
+
 #contact p {
     font-size: 1.2em;
 }
 
-/* Footer Styling */
+
 footer {
     text-align: center;
     padding: 20px;
@@ -71,9 +71,9 @@ footer {
     color: #fff;
 }
 
-/* Hover effect for navigation links */
+
 nav ul li a:hover {
     text-decoration: underline;
-    color: #ff6347;  /* Hover color */
+    color: #ff6347; 
 }
 
